@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="calculator">Calculator</string>
+    <string name="button">1</string>
+    <string name="btn2">2</string>
+    <string name="button3">3</string>
+    <string name="add">+</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="sub">-</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="mul">*</string>
+    <string name="buttondot">.</string>
+    <string name="buttonzero">0</string>
+    <string name="buttonequal">=</string>
+    <string name="div">/</string>
+    <string name="clear">C</string>
+</resources>
